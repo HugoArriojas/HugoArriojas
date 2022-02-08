@@ -36,3 +36,5 @@ You can find my portfolio at [HugoA.dev](https://www.hugoa.dev)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoArriojas&theme=dark&show_icons=true&locale=en&layout=compact" alt="HugoArriojas" /></p>
+
