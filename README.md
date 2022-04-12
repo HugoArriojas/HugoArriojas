@@ -3,8 +3,6 @@
 As a marine biologist turned web developer, I build immersive and accessible web experiences via clean and scalable code.
 I love bridging the gap in between science and tech and I hope to use my skills to build meaningful web applications.
 
-I am currently open to work with a focus on front-end development, JavaScript, and React.
-
 You can find my portfolio at [HugoA.dev](https://www.hugoa.dev)
 
 ### 📫 Socials
