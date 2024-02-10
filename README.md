@@ -7,8 +7,7 @@ You can find my portfolio at [HugoA.dev](https://www.hugoa.dev)
 
 ### 📫 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoarriojas/)
-[![Twitter](https://img.shields.io/badge/@hugo_arriojas-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hugo_arriojas)
-[![Gmail](https://img.shields.io/badge/hugo.arriojas@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.arriojas@hotmail.com?subject=Hello_Hugo!)
+[![Email](https://img.shields.io/badge/hugo.arriojas@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hugo.arriojas@hotmail.com?subject=Hello_Hugo!)
 
 ### 🔨 My current tech stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,11 +19,16 @@ You can find my portfolio at [HugoA.dev](https://www.hugoa.dev)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### 🌱 I’m currently learning:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![MongoDB](https://img.shields.io/badge/mongodb-%2335495e.svg?style=for-the-badge&logo=mongodb&logoColor=%234FC08D)
 
 
 ### 🎨 Creative Toolkit
