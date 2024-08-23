@@ -29,7 +29,9 @@ You can find my portfolio at [HugoA.dev](https://www.hugoa.dev)
 
 ### 🌱 I’m currently learning:
 ![MongoDB](https://img.shields.io/badge/mongodb-%2335495e.svg?style=for-the-badge&logo=mongodb&logoColor=%234FC08D)
-![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%404D59?style=for-the-badge&logo=cshrp)
 
 
 ### 🎨 Creative Toolkit
