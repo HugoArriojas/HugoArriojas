@@ -1,6 +1,6 @@
 ### Hello, I'm Hugo 👋🏼
 
-As a marine biologist turned web developer, I build immersive and accessible web experiences via clean and scalable code.
+As a marine biologist turned software engineer, I build immersive and accessible web experiences via clean and scalable code.
 I love bridging the gap in between science and tech and I hope to use my skills to build meaningful web applications.
 
 You can find my portfolio at [HugoA.dev](https://www.hugoa.dev)
